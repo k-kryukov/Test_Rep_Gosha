@@ -17,5 +17,3 @@ for cur_el in s:
 print(','.join(numbers2), end=',')
 print(','.join(numbers3), end=',')
 print(','.join(words4))
-
-
